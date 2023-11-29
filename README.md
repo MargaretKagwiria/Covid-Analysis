@@ -15,7 +15,7 @@ Exploratory Analysis Query: `Covid_exploratory_analysis_SQLQuery.sql`
 The exploratory analysis query examines the trends in COVID deaths and vaccinations, providing insights into temporal patterns, regional impacts, and other relevant statistics.
 
 Data Manipulation for Tableau: `Covid_Tableau_SQLQuery.sql`
-Describe the data transformation and preparation performed by the Tableau query, highlighting the structure and format suitable for visualization. Find the visualizations on the Tableau workbook uploaded `Covid_Analysis.tbwx`
+Describe the data transformation and preparation performed by the Tableau query, highlighting the structure and format suitable for visualization. Find the visualizations on the Tableau workbook uploaded `Covid_Analysis.twbx`
 
 ## Usage
 Ensure you have a SQL database or environment set up.
